@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">DevScope</string>
+    <string name="app_subtitle">System &amp; hardware information</string>
+    <string name="share">Share</string>
+    <string name="refresh">Refresh</string>
+</resources>
